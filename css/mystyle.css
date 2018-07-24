@@ -1,0 +1,22 @@
+body{
+  font-family: 'EB Garamond';
+  background-color: #D3D3D3; /*#fffaf0;*/
+  color: #34495E;
+  }
+  .title{
+    font-family: 'Abril Fatface'
+  }
+h1{
+  color: #2980B9;
+}
+#quote{
+  font-style: italic;
+  font-size: 15px;
+}
+.history{
+  background-color: Linen;
+  padding-top: 20px;
+}
+footer{
+  font-size: 10px;
+}
