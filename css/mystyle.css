@@ -1,4 +1,4 @@
-body{
+html, body{
   font-family: 'EB Garamond';
   background-color: #D3D3D3; /*#fffaf0;*/
   color: #34495E;
@@ -12,6 +12,10 @@ h1{
 #quote{
   font-style: italic;
   font-size: 15px;
+}
+#headline {
+  text-align: center;
+  color: #2980B9;
 }
 .history{
   background-color: Linen;
